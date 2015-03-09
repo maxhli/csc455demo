@@ -4,10 +4,10 @@ function AaronAddition (p1, p2) {
 
 return "blah blah ";
 }
-
+/*This is mine*/
 function JamesSubtraction (p1, p2) {
 
-return "blah blah ";AaronAddition
+return p1 - p2;
 }
 
 
