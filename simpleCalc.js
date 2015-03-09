@@ -1,8 +1,8 @@
 /* arithmetic calculation */
 
 function AaronAddition (p1, p2) {
-
-return "blah blah ";
+//added functionality
+return p1 + p2;
 }
 /*This is mine*/
 function JamesSubtraction (p1, p2) {
