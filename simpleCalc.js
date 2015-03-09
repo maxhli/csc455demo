@@ -13,7 +13,9 @@ return p1 - p2;
 
 function CodyMultiplication (p1, p2) {
 
-return "blah blah ";
+return p1 * p2;
+
+  
 }
 
 
