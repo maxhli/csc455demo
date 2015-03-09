@@ -7,7 +7,7 @@ return "blah blah ";
 
 function JamesSubtraction (p1, p2) {
 
-return "blah blah ";AaronAddition
+return p1 - p2;
 }
 
 
