@@ -18,8 +18,10 @@ return "blah blah ";
 
 
 function TomDivision (p1, p2) {
-
-return "blah blah ";
+if(p2 === 0) {
+ return "ERROR: Divide by zero. Please enter a non-zero number for the second argument";
+}
+return p1 / p2;
 }
 
 
