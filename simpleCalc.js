@@ -1,7 +1,7 @@
 /* arithmetic calculation */
 
 function AaronAddition (p1, p2) {
-
+//added functionality
 return p1 + p2;
 }
 
